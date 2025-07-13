@@ -58,10 +58,10 @@ We followed Microsoft’s **Agile Analytics Lifecycle**:
 
 | File / Asset                    | Description                                           |
 |--------------------------------|-------------------------------------------------------|
-| `Data_Analysis_Plan.docx`      | Project plan and analytics roadmap                   |
-| `Showcase_Presentation.pdf`    | Capstone presentation slides                         |
-| `Dropout_Model_UI.png`         | Screenshot of advisor-facing model interface         |
-| `Predictive_Model_Poster.png`  | Poster summarizing full project pipeline             |
+| ` 593 Data Analysis Plan (4).docx`      | Project plan and analytics roadmap                   |
+| `Copy of Team 7 Showcase Oral Consultative Presentation.pdf`| Capstone presentation slides                         |
+| `Dropout_analysis_DA (1).ipynb` | Exploratory Data Analysis and ML model   |
+| `Predictive Model .png`  | Poster summarizing full project pipeline             |
 
 ---
 
