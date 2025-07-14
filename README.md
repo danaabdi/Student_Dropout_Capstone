@@ -67,7 +67,8 @@ We followed Microsoft’s **Agile Analytics Lifecycle**:
 
 ## 👥 Team Members
 
-- Dana Abdirakhym  
+- Dana Abdirakhym
+- Diane Hoang
 - Dounia Benjdya  
 - Sukhdeep Kaur  
 - Justin Cabanos  
